@@ -209,7 +209,7 @@
                               children: [
                                 (0, o.jsx)(c.Z, {
                                   onClick: function () {
-                                    return p.push("/");
+                                    return p.push("./");
                                   },
                                   classes: "first:ml-1",
                                   children: "Home",
@@ -250,11 +250,9 @@
                                 j &&
                                   (0, o.jsx)(c.Z, {
                                     onClick: function () {
-                                      return window.open(
-                                        "mailto:ariel_robinson_moreira@hotmail.com"
-                                      );
-                                    },
-                                    children: "Resume",
+                                        return p.push("/Next.JS-Static-Portfolio/resume");
+                                      },
+                                    children: "Currículo",
                                   }),
                                 (0, o.jsx)(c.Z, {
                                   onClick: function () {

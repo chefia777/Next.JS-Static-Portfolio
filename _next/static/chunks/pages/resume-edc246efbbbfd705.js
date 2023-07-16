@@ -174,7 +174,7 @@
                               children: [
                                 (0, t.jsx)(l.Z, {
                                   onClick: function () {
-                                    return h.push("./");
+                                    return h.push("./Next.JS-Static-Portfolio/");
                                   },
                                   classes: "first:ml-1",
                                   children: "Home",
