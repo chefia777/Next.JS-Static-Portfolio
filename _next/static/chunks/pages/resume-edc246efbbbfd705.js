@@ -180,13 +180,6 @@
                                   children: "Home",
                                 }),
                                 k &&
-                                  (0, t.jsx)(l.Z, {
-                                    onClick: function () {
-                                      return h.push("./resume");
-                                    },
-                                    classes: "first:ml-1",
-                                    children: "Resume",
-                                  }),
                                 (0, t.jsx)(l.Z, {
                                   onClick: function () {
                                     return window.open(
@@ -255,13 +248,6 @@
                             children: "Home",
                           }),
                           k &&
-                            (0, t.jsx)(l.Z, {
-                              onClick: function () {
-                                return h.push("/resume");
-                              },
-                              classes: "first:ml-1",
-                              children: "Resume",
-                            }),
                           (0, t.jsx)(l.Z, {
                             onClick: function () {
                               return window.open(
