@@ -140,7 +140,7 @@
                                   },
                                   children: (0, t.jsx)("img", {
                                     className: "h-6",
-                                    src: "/images/".concat(
+                                    src: "./images/".concat(
                                       "dark" === g ? "moon.svg" : "sun.svg"
                                     ),
                                   }),
@@ -148,7 +148,7 @@
                               (0, t.jsx)(a.J.Button, {
                                 children: (0, t.jsx)("img", {
                                   className: "h-5",
-                                  src: "/images/".concat(
+                                  src: "./images/".concat(
                                     n
                                       ? "light" === g
                                         ? "cancel.svg"
@@ -279,7 +279,7 @@
                               },
                               children: (0, t.jsx)("img", {
                                 className: "h-6",
-                                src: "/images/".concat(
+                                src: "./images/".concat(
                                   "dark" === g ? "moon.svg" : "sun.svg"
                                 ),
                               }),
@@ -326,7 +326,7 @@
                               },
                               children: (0, t.jsx)("img", {
                                 className: "h-6",
-                                src: "/images/".concat(
+                                src: "./images/".concat(
                                   "dark" === g ? "moon.svg" : "sun.svg"
                                 ),
                               }),
